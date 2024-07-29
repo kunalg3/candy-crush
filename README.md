@@ -14,5 +14,5 @@ SweetCrush includes some images which are downloaded from google.
 [Click to play](https://sweetcrush.vercel.app/)
 
 
-##Screenshot
-![game] (./Screenshot 2021-10-28 220148.png)
+## Screenshot
+![game](./Screenshot%202021-10-28%20220148.png)
